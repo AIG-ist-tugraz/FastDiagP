@@ -129,7 +129,7 @@ The _fastdiag.py_, _fastdiagp_v2_1.py_, and _fastdiagp_v2_2.py_ allow the follow
 
 ## References
 
-[1] V.M. Le, C.V. Silva, A. Felfernig, T.N.T. Trang, J. Galindo, D. Benavides. FastDiagP: An Algorithm for Parallelized Direct Diagnosis. In 37th AAAI Conference on Artificial Intelligence. AAAI’23, Washington, DC, USA. 2023. (to appear
+[1] V.M. Le, C.V. Silva, A. Felfernig, T.N.T. Trang, J. Galindo, D. Benavides. FastDiagP: An Algorithm for Parallelized Direct Diagnosis. In 37th AAAI Conference on Artificial Intelligence. AAAI’23, Washington, DC, USA. 2023. (to appear)
 
 [2] A. Felfernig, M. Schubert and C. Zehentner, 2012. An efficient diagnosis algorithm for inconsistent constraint sets. AI EDAM, 26(1), pp.53-62. [doi:10.1017/S0890060411000011](https://doi.org/10.1017/S0890060411000011)
 
