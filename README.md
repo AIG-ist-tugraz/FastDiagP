@@ -60,7 +60,7 @@ We run the **FastDiag** algorithm for each inconsistent set of requirements to i
 Besides, we collected information on the diagnosis process, including the runtime, the number of performed consistency checks, and the cardinality of the diagnosis.
 The following Figure shows the histogram of identified diagnoses' cardinality from synthesized 20,976 sets of requirements.
 
-![image2.png](..%2F..%2F..%2FDownloads%2Fimage2.png)
+![image2.png](image2.png)
     
 2. _Classifies inconsistent user requirements_: We classified the collected inconsistent sets of requirements according to the cardinality of their diagnosis.
     
